@@ -1,3 +1,4 @@
+// WAP IN C TO DEMONSTRATE NESTED LOOP AND MAKE A MULTIPLICATION TABLE
 #include<stdio.h>
 int main(){
     int start,stop;
